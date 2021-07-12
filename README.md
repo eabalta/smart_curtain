@@ -20,6 +20,11 @@ The Arduino Project, which is doing open or close curtains effectively.
 
 <br>
 
+* Circuit Design
+
+> <img src="./ArduinoCircuit.jpg" alt="Unbalanced Data"/>
+
+
 In this project, we have two modes which are runs with buttons.
 *  First Button (on the left)
    *  When the button pressed, interrupt disabled, then the curtain's position is will be opposite. When the button is pressed one more time, the curtain position becomes normal then interrupt enabled.
