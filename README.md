@@ -22,7 +22,7 @@ The Arduino Project, which is doing open or close curtains effectively.
 
 * Circuit Design
 
-> <img src="./ArduinoCircuit.jpg" alt="Circuit Design"/>
+> <img src="./ArduinoCircuit.png" alt="Circuit Design"/>
 
 
 In this project, we have two modes which are runs with buttons.
